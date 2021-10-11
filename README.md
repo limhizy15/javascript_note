@@ -6,3 +6,7 @@ Learning javascript
 
 - 링크 : https://youtu.be/wcsVjmHrUQg
 - 영상보면서 정리 & 콘솔 찍어보면서 공부
+
+[Web Dev Simplified](./wds)
+
+- 링크 : https://www.youtube.com/c/WebDevSimplified/
